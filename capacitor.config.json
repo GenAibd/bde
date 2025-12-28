@@ -1,0 +1,9 @@
+{
+  "appId": "xyz.bdelectronics.app",
+  "appName": "BDElectronics",
+  "webDir": "www",
+  "server": {
+    "url": "https://bdelectronics.xyz",
+    "androidScheme": "https"
+  }
+}
